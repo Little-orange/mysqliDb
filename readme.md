@@ -1,4 +1,4 @@
- MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
+MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
 <hr>
 
 ### Table of Contents
